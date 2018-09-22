@@ -1,0 +1,2 @@
+configclient:
+  greeting: Hello from /prod/config-client.yml
